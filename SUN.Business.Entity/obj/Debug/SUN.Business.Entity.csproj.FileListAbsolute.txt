@@ -1,0 +1,12 @@
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\SUN.Business.Entity.dll.config
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\SUN.Business.Entity.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\SUN.Business.Entity.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\obj\Debug\SUN.Business.Entity.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\obj\Debug\SUN.Business.Entity.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\obj\Debug\SUN.Business.Entity.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\obj\Debug\SUN.Business.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Business.Entity\obj\Debug\SUN.Business.Entity.csproj.CopyComplete

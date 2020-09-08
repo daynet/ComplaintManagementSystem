@@ -1,0 +1,6 @@
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Common\bin\Debug\SUN.Common.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Common\bin\Debug\SUN.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Common\obj\Debug\SUN.Common.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Common\obj\Debug\SUN.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Common\obj\Debug\SUN.Common.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Common\obj\Debug\SUN.Common.csproj.CoreCompileInputs.cache

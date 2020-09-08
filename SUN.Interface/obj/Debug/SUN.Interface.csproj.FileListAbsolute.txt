@@ -1,0 +1,14 @@
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Business.Entity.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Entity.Dto.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Business.Entity.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Business.Entity.dll.config
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\SUN.Entity.Dto.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\obj\Debug\SUN.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\obj\Debug\SUN.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\obj\Debug\SUN.Interface.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\obj\Debug\SUN.Interface.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\CMS\SUN.ComplaintManagement - Copy1\SUN.Interface\obj\Debug\SUN.Interface.csproj.CopyComplete
